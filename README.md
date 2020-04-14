@@ -42,7 +42,7 @@
 
 ```bash
 # This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/yuriteixeira/Capslock/master/mac/capslock.json
 ```
 
 ```bash
@@ -63,11 +63,10 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ### Basic
 
-`✱` Hyper actually maps to `⌃⌥⇧⌘` (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
+`✱` Hyper actually maps to `⌃⌥⇧⌘` (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press.
 
 | Origin    | Maps to    | Comment                    |
 | --------- | ---------- | -------------------------- |
-| `⇪` Press | `⎋` Escape | Single press to escape     |
 | `⇪` Hold  | `✱`  Hyper | Enable Hyper Functionality |
 
 ### Navigation
